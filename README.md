@@ -9,8 +9,12 @@ Next to the "Add Cryptocurrency" button, there's another button for updating cry
 Additionally, in the profile section, you can edit your username, password, and email or delete your account.
 
 This project fetches cryptocurrency prices from an API (Git) and stores them in the database.
+
 ## install project
 
 Clone the repository:
 **First, clone the repository from GitHub:
 git clone https://github.com/yones1002/Portfolio.git
+
+## run npm run dev
+run *npm run dev* 
