@@ -19,10 +19,4 @@ git clone https://github.com/yones1002/Portfolio.git
 
 ## run npm run dev
 run *npm run dev* 
-=======
-## install project
-
-Clone the repository:
-**First, clone the repository from GitHub:
-git clone https://github.com/yones1002/Portfolio.git
 >>>>>>> 1a3b33883be6ade5dff4fca5dee3df9cea055d2d
